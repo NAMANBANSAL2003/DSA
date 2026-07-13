@@ -1,0 +1,14 @@
+# Ignore compiled files
+*.exe
+*.out
+*.o
+*.obj
+
+# Ignore VS Code settings
+.vscode/
+
+# Ignore Git metadata inside subfolders
+**/.git
+
+# Ignore temporary files
+*.log
